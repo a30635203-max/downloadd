@@ -1,0 +1,17 @@
+
+## 📝 **ملاحظات مهمة:**
+
+1. **ملف `gradle-wrapper.jar`** سيتم إنشاؤه تلقائياً عند أول تشغيل لـ `gradlew`
+
+2. **أيقونات PNG** (في مجلدات mipmap-*dpi) يمكنك إنشائها باستخدام:
+   - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+   - أو أضف أي صورة PNG مقاس 512×512 في كل مجلد
+
+3. **لبدء الاستخدام**:
+   ```bash
+   cd tubedownloader
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin [رابط المستودع]
+   git push -u origin main
